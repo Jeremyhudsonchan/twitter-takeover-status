@@ -12,3 +12,4 @@ get_Tweets.py is sentiment analysis script
 SIR_result.ipynb is the visualization of Mastodon Data used for our SIR and LSTM Models, as well as our implementation of the SIR model
 
 ### LSTM Model
+lstm_result.py is the script for our lstm model for forecasting user counts of Mastodon
