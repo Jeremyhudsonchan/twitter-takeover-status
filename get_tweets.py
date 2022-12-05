@@ -4,6 +4,7 @@ import nltk
 nltk.download('stopwords')
 from nltk.corpus import stopwords
 from textblob import TextBlob
+import pandas as pd
 
 # Sentimental analysis
 # Please insert Twitter API Credentials
