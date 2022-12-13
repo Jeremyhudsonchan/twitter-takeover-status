@@ -1,4 +1,4 @@
-# twitter-takeover-status<br><br>(sentiment analysis; SIR contagion analysis ;time series forcasting)
+# twitter-takeover-status<br>(sentiment analysis; SIR contagion analysis ;time series forcasting)
 How has Elon Musk's takeover affected Twitter and the general public's perception on it?
 
 
