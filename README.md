@@ -1,6 +1,5 @@
-# twitter-takeover-status<br>(sentiment analysis; SIR contagion analysis ;time series forcasting)
-How has Elon Musk's takeover affected Twitter and the general public's perception on it?
-
+# Twitter and Mastodon Investigation<br>(a sentiment analysis, SIR contagion analysis, and time series forcasting study)
+In this study, we analyzed and investigated the aftereffect of Twitter acquisition. We used three models: the sentiment analysis model, the SIR compartmental model, and the Long Short-Term Memory(LSTM) model to investigate why people leave Twitter, analyze Mastodon's user number increase, and predict Mastodon's future user growth using the latter two models.
 
 
 ### Sample Data
